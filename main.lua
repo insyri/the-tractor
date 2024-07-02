@@ -7,7 +7,7 @@ end)
 
 client:on('messageCreate', function(message)
   if message.content == '!ping' then
-    message.channel:send('YOU ARE A ###KING ##GG##!')
+    message.channel:send('YOU ARE A REAL KING, GG')
   end
 end)
 
